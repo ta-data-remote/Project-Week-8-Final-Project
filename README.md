@@ -75,6 +75,6 @@ This project is about binary classification problem. The basic idea is to predic
 
 ## Links
 
-[Dataset](https://www.kaggle.com/c/titanic/data) 
+[Dataset](https://www.kaggle.com/c/titanic/data)
 [Presentation](https://drive.google.com/file/d/1RwQuYr2FTdweED14OyLF0xVsUco3t5os/view?usp=sharing)  
 [Trello](https://trello.com/b/JcT6ox3A/titanic-final-project-ironhack)  
