@@ -59,7 +59,7 @@ This project is about binary classification problem. The basic idea is to predic
 * NLP for extracting valuable information from names, like title.
 
 ## Workflow
-* The work was divided in 3 main stelps and 3 main notebooks.
+* The work was divided in 4 main steps.
 * 1. Create a plan
 * 2. Clean the data 
 * 3. Data visualization 
@@ -75,7 +75,7 @@ This project is about binary classification problem. The basic idea is to predic
 
 ## Links
 
-[Dataset] (https://www.kaggle.com/c/titanic/data)
+[Dataset](https://www.kaggle.com/c/titanic/data)
 [Repository](https://github.com/)  
 [Presentation](https://drive.google.com/file/d/1RwQuYr2FTdweED14OyLF0xVsUco3t5os/view?usp=sharing)  
 [Trello](https://trello.com/b/JcT6ox3A/titanic-final-project-ironhack)  
